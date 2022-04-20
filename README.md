@@ -1,2 +1,2 @@
 # odin-journey
-Learning web development through The Odin Project
+Learning web-dev through The Odin Project
